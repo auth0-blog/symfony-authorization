@@ -8,14 +8,14 @@
             <div class="col-md-12">
                 <div class="card bg-light mb-3 mt-3">
                     <div class="card-body">
-                        <div class="card-header">List of Game of Thrones Characters</div>
+                        <div class="card-header">List of top technology companies </div>
                         {% if app.user != null %}
                             <table class="table">
                                 <tr>
-                                    <th>Character</th>
-                                    <th>Real Name</th>
+                                    <th>Company Name</th>
+                                    <th>Market Value</th>
                                 </tr>
-                                {% for key, item in character %}
+                                {% for key, item in companies %}
                                     <tr>
                                         <td>{{ key }}</td><td>{{ item }}</td>
                                     </tr>
