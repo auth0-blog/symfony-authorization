@@ -17,7 +17,7 @@ This demo uses:
 
 To run the demo follow these steps:
 
-1. Download the repository [here](https://github.com/yemiwebby/top-tech-companies/archive/master.zip) or by running `git clone https://github.com/yemiwebby/top-tech-companies.git`
+1. Running `git clone https://github.com/auth0-blog/symfony-authorization.git`
 2. Run `composer install` to install all the project's dependencies.
 3. If you do not have an Auth0 account, [sign up](https://auth0.com/signup) for one now. Navigate to the Auth0 [management dashboard](https://manage.auth0.com/), select **Applications** from the navigation menu, then select or create a regular web application that you want to connect with **Symfony**
 4. Create a `.env` file within the root folder of the project and include your Auth0 credentials as well as your proposed database details:
