@@ -2,7 +2,7 @@
 
 Read the full tutorial here:
 
-> > Not yet published
+[Creating your First Symfony App and Adding Authentication](https://auth0.com/blog/creating-your-first-symfony-app-and-adding-authentication/)
 
 This application detailed the step by step guide on how to build your first Symfony application and add authentication to it using Auth0.
 
